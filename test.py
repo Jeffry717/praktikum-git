@@ -1,0 +1,1 @@
+print("Pengujian program berhasil")
