@@ -1,2 +1,5 @@
-print("Hello World")
-print("Praktikum Git Pertama")
+print("Selamat datang di praktikum Git")
+print("Belajar Version Control System")
+
+nama = input("Masukkan nama: ")
+print("Halo,", nama)
