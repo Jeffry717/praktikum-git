@@ -14,3 +14,9 @@ if status.lower() == "ya":
     print("Status: Mahasiswa Aktif")
 else:
     print("Status: Tidak Aktif")
+    
+if umur.isdigit():
+    if int(umur) >= 18:
+        print("Kategori: Dewasa")
+    else:
+        print("Kategori: Belum Dewasa")
